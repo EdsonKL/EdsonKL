@@ -1,8 +1,7 @@
 ### Olá, Eu me chamo Edson Mendes Palhares
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript / React / Node.js / MongoDB
-
+- 🌱 Estudando Typescript / React / Next.js / MySQL / Tailwind
 <div align="center">
   <a href="https://github.com/EdsonKL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonKL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
